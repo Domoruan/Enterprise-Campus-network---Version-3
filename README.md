@@ -58,7 +58,7 @@ The HQ site includes a Wireless LAN Controller for centralized wireless manageme
 - Branch wireless deployment was tested but is not yet part of the final design. Branch endpoints are connecting to HQ AP.
   
 ## Planned Improvements
-This lab is still a work in progress. Future updates will include:
+This project is still a work in progress. Future updates will include:
 
 - Expanding TACACS+ authentication to all routers and switches
 - Resolving the remaining VoIP registration issue for extension 1002
