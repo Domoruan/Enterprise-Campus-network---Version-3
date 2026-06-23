@@ -1,5 +1,6 @@
 # Campus-network
-Enterprise Network 
+Enterprise Campus Network I designed and configued from scratch.
+
 # Cisco Packet Tracer enterprise network connecting an HQ building and a Branch building using OSPF.
 
 ## Main Features
